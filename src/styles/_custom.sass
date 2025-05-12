@@ -103,6 +103,29 @@ figcaption
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem
 
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
+
+.fa-check-circle:before
+  content: url('../assets/curso/t1/hj.svg')
+
 //tema 1
 
 .tarjeta--container.borde-recto
@@ -113,7 +136,7 @@ figcaption
   border-top-right-radius: 0px
   border-bottom-right-radius: 0px
 
-.tarjeta--container > .tarjeta:first-child
+.tarjeta--container.borde-recto > .tarjeta:first-child
     border-top-left-radius: 0px
     border-bottom-left-radius: 0px
 
@@ -124,3 +147,10 @@ figcaption
 .img-a
   display: block
   margin: auto
+
+.tabs-c__tab--active 
+  span 
+   font-weight: bold
+
+.tabs-c__content-item
+  background-color: #FFFAF0

@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Efectos del cambio climático sobre la biodiversidad y los servicios ecosistémicos
 
 
 </template>
