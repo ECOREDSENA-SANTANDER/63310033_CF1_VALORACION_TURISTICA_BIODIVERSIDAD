@@ -7,13 +7,13 @@
         span 2
       h1 Colombia y el contexto mundial de la biodiversidad
 
-    .row.align-items-center.justify-content-center.mb-4(data-aos="fade")
-      .col-sm-12.col-md-12.col-lg-5
+    .row.align-items-center.justify-content-center.mb-4
+      .col-sm-12.col-md-12.col-lg-5(data-aos="fade-left")
         .row.bgverde.borde-redondo
           p.p-5.mt-2.mb-3 La siguiente figura presenta los países denominados megadiversos, los cuales concentran, en conjunto, aproximadamente el 70 % de la biodiversidad global; estos territorios se caracterizan por albergar una gran variedad de especies y ecosistemas.
-      .col-6.col-md-6.col-lg-3
+      .col-6.col-md-6.col-lg-3(data-aos="fade-left")
         img(src='@/assets/curso/t2/img1.png', alt='')
-      .col-sm-12.col-md-12.col-lg-4
+      .col-sm-12.col-md-12.col-lg-4(data-aos="fade-down")
         .row.align-items-center
           .col-3
             img.mt-3(src='@/assets/curso/t2/ico1.png', alt='').d-none.d-lg-block
@@ -29,7 +29,7 @@
           img(src='@/assets/curso/t2/fig4.png', alt='La figura presenta un mapa del mundo en el que se identifican los países considerados megadiversos. Estos territorios se distribuyen principalmente en América del Sur, Asia y Oceanía, y se destacan por albergar un alto número de especies y ecosistemas. Colombia se encuentra en la segunda posición dentro del grupo de los diez países con mayor biodiversidad.')
         figcaption #[b Fuente:] Sibcolombia.net (2017).
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-5.col-md-10.col-12
         img(src='@/assets/curso/t2/img2.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
@@ -62,7 +62,7 @@
 
     p.mb-4 Aunque no se cuenta con un dato exacto sobre el número total de especies presentes en Colombia, existen estimaciones por grupo biológico que permiten dimensionar la magnitud de su biodiversidad. Las cifras disponibles corresponden al año 2016 y, según expertos, continúan en aumento debido a los descubrimientos realizados en expediciones científicas, especialmente en zonas que han sido accesibles tras los procesos de posconflicto.
 
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.fondo2(data-aos="fade-down")
       .col-lg-8.col-md-12.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 6. 

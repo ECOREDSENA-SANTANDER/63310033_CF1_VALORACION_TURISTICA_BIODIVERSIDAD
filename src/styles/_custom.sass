@@ -54,7 +54,41 @@ figcaption
     &::before
       height: 100%
       top: 1px
+
+.subt2
+  position: relative
+  width: fit-content
+  padding-right: 20px
+  &::before
+    content: ''
+    position: absolute
+    background-color:  #0F6646
+    border-radius: 200px
+    width: 100%
+    height: 75%
+    top: 7px
+    z-index: 0
+  h3, img
+    z-index: 999  
+    position: relative
+  @media screen and (min-device-width: 767px) and (max-device-width: 1180px)
+    &::before
+      height: 107%
+      top: -12px
+    h3
+      margin-left: 87px
+      margin-top: -54px
+      padding-bottom: 23px
+  @media screen and (max-width: 767px)
+    &::before
+      height: 140%
+      top: -24px
+    h3
+      margin-left: 2px
+      margin-top: -9px
+      padding-bottom: 4px
  
+
 // ajuste portada
 
 .banner-principal__descripcion
@@ -103,6 +137,25 @@ figcaption
   @media screen and (max-width: 992px)
     margin-inline: -1.4rem
 
+.fondo2
+  background: url('../assets/curso/t2/fondo.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center 
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+.fondo3
+  background: url('../assets/curso/t3/fondo.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: center
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+
 // viñetas
 
 .fa-ol
@@ -126,7 +179,7 @@ figcaption
 .fa-check-circle:before
   content: url('../assets/curso/t1/hj.svg')
 
-//tema 1
+//temas
 
 .tarjeta--container.borde-recto
   border-top-right-radius: 0px
@@ -154,3 +207,19 @@ figcaption
 
 .tabs-c__content-item
   background-color: #FFFAF0
+
+.acordion__accion__btn--a
+  background-color: #FF7241
+  box-shadow: 0px 0px 7px 2px rgba(0,0,0,.3)
+
+.acordion .tarjeta--azul
+  background-color: #E2F2F3
+
+.acordion .tarjeta.tarjeta--azul.acordion__activo
+  background-color: #B8CCAB
+  h3
+    color: black
+
+.acordion__titulo
+  h3
+    color: black
