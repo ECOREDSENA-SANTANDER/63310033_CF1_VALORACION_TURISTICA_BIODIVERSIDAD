@@ -46,6 +46,98 @@
 
     p.mb-4 Los servicios ecosistémicos se agrupan generalmente en tres categorías principales:
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+      .col-lg-12
+        TabsA.color-acento-botones
+          .tarjeta.color-s20.p-4(titulo="Servicios de aprovisionamiento")
+            p.mb-4 Incluyen todos los productos tangibles que los seres humanos extraen directamente de los ecosistemas. Estos bienes son fundamentales para la subsistencia, el desarrollo económico y la seguridad alimentaria.
+            p.mb-4 #[b Ejemplos:]
+            .row.justify-content-center
+              .col-lg-6
+                ul.lista-ul--color.fa-al
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Alimentos (frutas, vegetales, carne, pescado).
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Productos forestales maderables (madera, leña).
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Productos forestales no maderables (resinas, fibras, semillas).
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Agua dulce.
+              .col-lg-6
+                ul.lista-ul--color.fa-al
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Recursos genéticos.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Ingredientes naturales utilizados en productos farmacéuticos, cosméticos y plantas medicinales.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Fauna ornamental y pieles.
+          .tarjeta.color-s20.p-4(titulo="Servicios de regulación y soporte")
+            p.mb-4 Los servicios de regulación son aquellos que resultan de los procesos naturales que contribuyen al equilibrio ambiental, como la regulación del clima, la calidad del aire y del agua, el control de enfermedades y plagas, entre otros.
+            p.mb-4 Por su parte, los servicios de soporte (también llamados servicios de mantenimiento o de base) son fundamentales para la generación de todos los demás servicios ecosistémicos, aunque no se perciben de forma inmediata. Incluyen procesos ecológicos esenciales que operan a largo plazo y en grandes escalas espaciales.
+            .row.justify-content-center
+              .col-lg-6
+                p.mb-4 #[b Ejemplos de servicios de regulación:]
+                ul.lista-ul--color.fa-al
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Regulación hídrica.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Captura y almacenamiento de carbono.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Control de la erosión.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Filtración de contaminantes.
+              .col-lg-6
+                p.mb-4 #[b Ejemplos de servicios de soporte:]
+                ul.lista-ul--color.fa-al
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Producción primaria.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Formación y fertilidad del suelo.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Ciclo de nutrientes.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Provisión de hábitats para especies.
+          .tarjeta.color-s20.p-4(titulo="Servicios culturales")
+            p.mb-4 Son los beneficios intangibles que las personas obtienen de los ecosistemas a través de experiencias espirituales, estéticas, educativas y recreativas. Estos servicios fortalecen la identidad cultural, el bienestar emocional y el vínculo simbólico con la naturaleza.
+            p.mb-4 Por su parte, los servicios de soporte (también llamados servicios de mantenimiento o de base) son fundamentales para la generación de todos los demás servicios ecosistémicos, aunque no se perciben de forma inmediata. Incluyen procesos ecológicos esenciales que operan a largo plazo y en grandes escalas espaciales.
+            .row.justify-content-center
+              .col-lg-12
+                p.mb-4 #[b Ejemplos:]
+                ul.lista-ul--color.fa-al
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Valor paisajístico y belleza escénica.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Recreación y ecoturismo.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Inspiración artística e intelectual.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-0 Desarrollo cultural y espiritual de comunidades étnicas.
+                  li 
+                    i.fas.fa-check-circle
+                    span.mb-4 Educación ambiental y actividades de interpretación de la naturaleza.
+            p Los servicios ecosistémicos constituyen la base del bienestar humano y del desarrollo sostenible. Reconocer su valor e integrar su protección en las políticas públicas, la planificación territorial y las prácticas económicas, es esencial para enfrentar los desafíos ambientales actuales, como el cambio climático y la pérdida de biodiversidad.
+
+
+
 </template>
 
 <script>

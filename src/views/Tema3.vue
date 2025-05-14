@@ -22,7 +22,7 @@
       .col-lg-9.col-md-12.col-sm-12      
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.col-xl-11.m-auto(titulo="África")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-6
                 ul.lista-ul--color.fa-al
                   li.mb-0 
@@ -52,7 +52,7 @@
                     i.fas.fa-check-circle
                     span.mb-0 Karoo.
           .row.col-xl-11.m-auto(titulo="Asia y el Pacífico")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               .col-lg-6
                 ul.lista-ul--color.fa-al
                   li.mb-0 
@@ -94,7 +94,7 @@
                     i.fas.fa-check-circle
                     span.mb-0 Ghat occidentales y Sri Lanka.
           .row.col-xl-11.m-auto(titulo="Europa y Asia Central")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
               ul.lista-ul--color.fa-al
                 li.mb-0 
                   i.fas.fa-check-circle
@@ -109,7 +109,7 @@
                   i.fas.fa-check-circle
                   span.mb-0 Montañas de Asia Central.
           .row.col-xl-11.m-auto(titulo="Norte y Centroamérica")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
@@ -124,7 +124,7 @@
                     i.fas.fa-check-circle
                     span.mb-0 Bosques de pinos y robles madrones.
           .row.col-xl-11.m-auto(titulo="Sudamérica")
-            .row.justify-content-center.align-items-center(data-aos="fade-right")
+            .row.justify-content-center.align-items-center
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
