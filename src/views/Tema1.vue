@@ -14,7 +14,6 @@
               img(src='@/assets/curso/t1/img1.png', alt='')
             .col-lg-7.tarjeta.bgverde.p-4(data-aos="fade-left")
               .row.bgverdemate.mx-1.mt-4
-                h3.mt-1.mb-1 #[b ¿Qué es la biodiversidad?]
               p.mb-0.mt-4 La biodiversidad se refiere a la variedad de formas de vida que habitan un área determinada, incluyendo especies animales, vegetales y microorganismos, este concepto abarca también la diversidad de ecosistemas, la riqueza de hábitats y comunidades biológicas, así como la variedad de procesos ecológicos que los sustentan. Además, incluye la variabilidad genética, entendida como el conjunto de la información contenida en los genes de todos los individuos de una especie (Calle, 1994).
           p.mt-2 Según la Política Nacional de Biodiversidad del Ministerio del Medio Ambiente (1996), es importante considerar los siguientes aspectos relacionados con la biodiversidad:
         .col-lg-3.col-md-6.col-12
@@ -169,28 +168,28 @@
                   ul.lista-ul--color.fa-al
                     li.mb-0 
                       i.fas.fa-check-circle
-                      span.mb-0 21 especies de mamíferos marinos.
+                      span.mb-0 21 especies de mamíferos marinos
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 6 mamíferos de agua dulce.
+                      span.mb-0 6 mamíferos de agua dulce
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 28 especies de murciélagos.
+                      span.mb-0 28 especies de murciélagos
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 275 especies de aves.
+                      span.mb-0 275 especies de aves
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 6 especies de tortugas.
+                      span.mb-0 6 especies de tortugas
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 110 peces de agua dulce.
+                      span.mb-0 110 peces de agua dulce
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 64 peces marinos.
+                      span.mb-0 64 peces marinos
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 39 especies de insectos.
+                      span.mb-0 39 especies de insectos
                   p Estas cifras reflejan la riqueza biológica y el papel estratégico de Colombia como corredor de biodiversidad para especies que se desplazan por motivos reproductivos, alimenticios o estacionales.
             .py-3.py-md-4(titulo="Especies endémicas")
               .row.justify-content-center
@@ -210,13 +209,13 @@
                   ul.lista-ul--color.fa-al
                     li.mb-0 
                       i.fas.fa-check-circle
-                      span.mb-0 En peligro crítico.
+                      span.mb-0 En peligro crítico
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 En peligro.
+                      span.mb-0 En peligro
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 Vulnerable.
+                      span.mb-0 Vulnerable
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 3. 
                     |  Estadística de especies
@@ -228,49 +227,49 @@
                   ul.lista-ul--color.fa-al
                     li.mb-0 
                       i.fas.fa-check-circle
-                      span.mb-0 43 especies de mamíferos.
+                      span.mb-0 43 especies de mamíferos
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 112 especies de aves.
+                      span.mb-0 112 especies de aves
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 25 reptiles.
+                      span.mb-0 25 reptiles
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 48 anfibios.
+                      span.mb-0 48 anfibios
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 28 peces marinos.
+                      span.mb-0 28 peces marinos
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 34 peces de agua dulce.
+                      span.mb-0 34 peces de agua dulce
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 7 especies de corales.
+                      span.mb-0 7 especies de corales
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 14 moluscos marinos.
+                      span.mb-0 14 moluscos marinos
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 7 crustáceos marinos.
+                      span.mb-0 7 crustáceos marinos
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 1 crustáceo terrestre.
+                      span.mb-0 1 crustáceo terrestre
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 13 mariposas.
+                      span.mb-0 13 mariposas
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 3 coleópteros (escarabajos).
+                      span.mb-0 3 coleópteros (escarabajos)
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 31 himenópteros (abejas, avispas, hormigas).
+                      span.mb-0 31 himenópteros (abejas, avispas, hormigas)
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 6 arañas.
+                      span.mb-0 6 arañas
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 5 alacranes.
+                      span.mb-0 5 alacranes
                   p Esta situación evidencia la urgencia de implementar medidas efectivas de conservación y protección de la fauna colombiana.
 
   </template>
