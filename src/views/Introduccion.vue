@@ -20,8 +20,8 @@
       .col-lg-10.col-md-12.col-sm-12
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video: xxx. 
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/1uEG1eVWCdc?si=dwNzmgnyRaWAJiy1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption Video: Turismo y biodiversidad sostenible. 
 
 </template>
 
