@@ -116,7 +116,7 @@ export default {
       tema: '¿Qué es la biodiversidad?',
       referencia: 'SENA. (2022). Afectaciones y riesgos de la fauna silvestre.',
       tipo: 'Video',
-      link: 'https://youtu.be/Qh2nSdrrIMc',
+      link: 'https://www.youtube.com/watch?v=CB-EwtBvGXI',
     },
     {
       tema: 'Colombia y el contexto mundial de la biodiversidad.',
