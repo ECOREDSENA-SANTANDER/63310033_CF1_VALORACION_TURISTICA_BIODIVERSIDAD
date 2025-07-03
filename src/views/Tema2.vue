@@ -18,7 +18,7 @@
           .col-3
             img.mt-3(src='@/assets/curso/t2/ico1.png', alt='').d-none.d-lg-block
         .row.mt-3
-          p Posteriormente, se presentan algunas cifras representativas sobre la biodiversidad de Colombia, proporcionadas por el #[b Sistema de Información sobre Biodiversidad de Colombia (SiB Colombia)], las cuales evidencian la riqueza natural del país y su relevancia a nivel mundial en términos de diversidad biológica.
+          p Posteriormente, se presentan algunas cifras representativas sobre la biodiversidad de Colombia, proporcionadas por el #[b Sistema de Información sobre Biodiversidad de Colombia (SIBCOLOMBIA)], las cuales evidencian la riqueza natural del país y su relevancia a nivel mundial en términos de diversidad biológica.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.col-md-12.col-sm-12
@@ -26,8 +26,8 @@
           h5 Figura 4. 
           |  Biodiversidad en el mundo
         figure
-          img(src='@/assets/curso/t2/fig4.png', alt='La figura presenta un mapa del mundo en el que se identifican los países considerados megadiversos. Estos territorios se distribuyen principalmente en América del Sur, Asia y Oceanía, y se destacan por albergar un alto número de especies y ecosistemas. Colombia se encuentra en la segunda posición dentro del grupo de los diez países con mayor biodiversidad.')
-        figcaption #[b Fuente:] Sibcolombia.net (2017).
+          img(src='@/assets/curso/t2/fig4.png', alt='Presenta un mapa del mundo en el que se identifican los países considerados megadiversos. Estos territorios se distribuyen principalmente en América del Sur, Asia y Oceanía, y se destacan por albergar un alto número de especies y ecosistemas. Colombia se encuentra en la segunda posición dentro del grupo de los diez países con mayor biodiversidad.')
+        figcaption #[b Fuente:] Sibcolombia.net (2017)
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-5.col-md-10.col-12
@@ -58,7 +58,7 @@
           |  Escalafón sobre biodiversidad en Colombia
         figure
           img(src='@/assets/curso/t2/fig5.png', alt='El contenido presenta la posición de Colombia a nivel mundial en diversidad biológica. El país ocupa el primer lugar en aves y orquídeas, el segundo en plantas, anfibios, mariposas y peces dulceacuícolas, el tercero en palmas y reptiles, y el cuarto en mamíferos.')
-        figcaption #[b Fuente:] Sibcolombia.net (2017).
+        figcaption #[b Fuente:] Sibcolombia.net (2017)
 
     p.mb-4 Aunque no se cuenta con un dato exacto sobre el número total de especies presentes en Colombia, existen estimaciones por grupo biológico que permiten dimensionar la magnitud de su biodiversidad. Las cifras disponibles corresponden al año 2016 y, según expertos, continúan en aumento debido a los descubrimientos realizados en expediciones científicas, especialmente en zonas que han sido accesibles tras los procesos de posconflicto.
 
@@ -68,8 +68,8 @@
           h5 Figura 6. 
           |  Clasificación de la biodiversidad
         figure
-          img.mb-2(src='@/assets/curso/t2/fig6.png', alt='La figura organiza la biodiversidad en seis grandes grupos: vertebrados, invertebrados, plantas, algas, hongos y líquenes. Cada grupo contiene varias categorías con su respectiva cantidad de especies registradas, lo que permite dimensionar la diversidad biológica presente según el tipo de organismo.')
-        figcaption #[b Fuente:] Sibcolombia.net (2017).
+          img.mb-2(src='@/assets/curso/t2/fig6.png', alt='Presenta la biodiversidad en seis grandes grupos: vertebrados, invertebrados, plantas, algas, hongos y líquenes. Cada grupo contiene varias categorías con su respectiva cantidad de especies registradas, lo que permite dimensionar la diversidad biológica presente según el tipo de organismo.')
+        figcaption #[b Fuente:] Sibcolombia.net (2017)
 
 
 </template>

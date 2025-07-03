@@ -164,7 +164,6 @@
                   figure
                     img(src='@/assets/curso/t1/fig1.png', alt='El contenido presenta un grupo de aves en pleno desplazamiento sobre un cuerpo de agua, mientras otras se mantienen en vuelo bajo. Al fondo se distingue vegetación que delimita el entorno natural donde ocurre esta escena migratoria')
                 .col-md-5
-                  p  Estas cifras reflejan la riqueza biológica y el papel estratégico de Colombia como corredor de biodiversidad para especies que se desplazan por motivos reproductivos, alimenticios o estacionales.           
                   ul.lista-ul--color.fa-al
                     li.mb-0 
                       i.fas.fa-check-circle
@@ -200,12 +199,12 @@
                     h5 Figura 2. 
                     | Especies endémicas de Colombia
                   figure
-                    img(src='@/assets/curso/t1/fig2.png', alt='La figura presenta un resumen de las especies endémicas de Colombia, organizadas por grupos taxonómicos. Se destacan 6.383 especies de plantas, 1.467 orquídeas, 367 anfibios, 350 mariposas, 311 peces dulceacuícolas, 115 reptiles, 79 aves, 47 palmas y 34 mamíferos. Esta diversidad refleja la riqueza biológica única del país y su importancia en la conservación global de la biodiversidad.')
-                  figcaption #[b Fuente:] Sibcolombia.net (2017).
+                    img(src='@/assets/curso/t1/fig2.png', alt='Presenta un resumen de las especies endémicas de Colombia, organizadas por grupos taxonómicos. Se destacan 6.383 especies de plantas, 1.467 orquídeas, 367 anfibios, 350 mariposas, 311 peces dulceacuícolas, 115 reptiles, 79 aves, 47 palmas y 34 mamíferos. Esta diversidad refleja la riqueza biológica única del país y su importancia en la conservación global de la biodiversidad.')
+                  figcaption #[b Fuente:] Sibcolombia.net (2017)
             .py-3.py-md-4(titulo="Especies amenazadas")
               .row.justify-content-center
                 .col-md-5
-                  p Son aquellas que enfrentan un alto riesgo de extinción en el corto, mediano o largo plazo. Esta clasificación se basa en las categorías de la lista roja de la unión internacional para la conservación de la naturaleza (UICN), que incluye:  
+                  p Son aquellas que enfrentan un alto riesgo de extinción en el corto, mediano o largo plazo. Esta clasificación se basa en las categorías de la lista roja de la Unión Internacional para la Conservación de la Naturaleza (UICN), que incluye:  
                   ul.lista-ul--color.fa-al
                     li.mb-0 
                       i.fas.fa-check-circle
@@ -220,8 +219,8 @@
                     h5 Figura 3. 
                     |  Estadística de especies
                   figure
-                    img(src='@/assets/curso/t1/fig3.png', alt='La figura presenta la distribución de especies amenazadas en Colombia, agrupadas en tres categorías de riesgo: En Peligro Crítico (CR), En Peligro (EN) y Vulnerables (VU). En total, se registran 798 especies amenazadas, de las cuales 313 corresponden a vertebrados, 74 a invertebrados y 411 a plantas. Cada grupo se desglosa según el nivel de amenaza, reflejando la urgencia de acciones de conservación diferenciadas.')
-                  figcaption #[b Fuente:] Sibcolombia.net (2017).
+                    img(src='@/assets/curso/t1/fig3.png', alt='Presenta la distribución de especies amenazadas en Colombia, agrupadas en tres categorías de riesgo: En Peligro Crítico (CR), En Peligro (EN) y Vulnerables (VU). En total, se registran 798 especies amenazadas, de las cuales 313 corresponden a vertebrados, 74 a invertebrados y 411 a plantas. Cada grupo se desglosa según el nivel de amenaza, reflejando la urgencia de acciones de conservación diferenciadas.')
+                  figcaption #[b Fuente:] Sibcolombia.net (2017)
                 .col-md-5
                   p  Según el Ministerio de Medio Ambiente y Desarrollo Sostenible (2010), en Colombia existen 377 especies de fauna clasificadas como amenazadas. La distribución por grupos es la siguiente:          
                   ul.lista-ul--color.fa-al
