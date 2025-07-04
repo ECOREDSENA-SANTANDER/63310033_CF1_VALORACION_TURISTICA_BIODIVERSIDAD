@@ -68,7 +68,7 @@
           h5 Figura 6. 
           |  Clasificación de la biodiversidad
         figure
-          img.mb-2(src='@/assets/curso/t2/fig6.png', alt='Presenta la biodiversidad en seis grandes grupos: vertebrados, invertebrados, plantas, algas, hongos y líquenes. Cada grupo contiene varias categorías con su respectiva cantidad de especies registradas, lo que permite dimensionar la diversidad biológica presente según el tipo de organismo.')
+          img.mb-2(src='@/assets/curso/t2/fig6.png', alt='Se expone de forma organizada la biodiversidad en seis grandes grupos: vertebrados, invertebrados, plantas, algas, hongos y líquenes. Cada grupo contiene varias categorías con su respectiva cantidad de especies registradas, lo que permite dimensionar la diversidad biológica presente según el tipo de organismo.')
         figcaption #[b Fuente:] Sibcolombia.net (2017)
 
 

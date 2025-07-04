@@ -193,7 +193,7 @@
           h5 Figura 10. 
           |  Ecosistemas colombianos
         figure
-          img.mb-2(src='@/assets/curso/t3/fig10.png', alt='Presenta los ecosistemas colombianos en dos grandes grupos: terrestres y marino costeros. Dentro de los ecosistemas terrestres se incluyen el Chocó biogeográfico, las Llanuras del Caribe, la Amazonía, la Orinoquía y la región Andina. En cuanto a los marino-costeros, se identifican las zonas del Pacífico y del Caribe.')
+          img.mb-2(src='@/assets/curso/t3/fig10.png', alt='Clasifica los ecosistemas colombianos en dos grandes grupos: terrestres y marino costeros. Dentro de los ecosistemas terrestres se incluyen el Chocó biogeográfico, las Llanuras del Caribe, la Amazonía, la Orinoquía y la región Andina. En cuanto a los marino-costeros, se identifican las zonas del Pacífico y del Caribe.')
         figcaption #[b Fuente:] Ministerio de Ambiente y Desarrollo Sostenible (2015)
       .col-lg-8.col-md-12.col-sm-12
           img(src='@/assets/curso/t3/img4.png', alt='')
