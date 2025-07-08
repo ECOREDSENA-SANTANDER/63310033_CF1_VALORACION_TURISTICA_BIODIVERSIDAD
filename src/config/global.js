@@ -114,7 +114,7 @@ export default {
   complementario: [
     {
       tema: '¿Qué es la biodiversidad?',
-      referencia: 'SENA. (2022). Afectaciones y riesgos de la fauna silvestre.',
+      referencia: 'SENA. (2025). Afectaciones y riesgos de la fauna silvestre.',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=CB-EwtBvGXI',
     },
@@ -212,7 +212,12 @@ export default {
     },
     {
       referencia:
-        'Calle Diaz, Z. (1994). Curso de Campo sobre Biodiversidad. Fundación Herencia Verde. CEPAL. (2015). El cambio climático y sus efectos en la biodiversidad en América Latina.',
+        'Calle Diaz, Z. (1994). Curso de Campo sobre Biodiversidad. Fundación Herencia Verde.',
+      link: '',
+    },
+    {
+      referencia:
+        'CEPAL. (2015). El cambio climático y sus efectos en la biodiversidad en América Latina.',
       link: '',
     },
     {
@@ -226,7 +231,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'SiB. (27 de 12 de 2017). La biodiversidad en Cifras.',
+      referencia: 'SiB Colombia. (s.f.). Biodiversidad en Cifras. ',
       link: 'https://www.sibcolombia.net/actualidad/biodiversidad-en-cifras/',
     },
   ],
@@ -290,7 +295,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: ' ',
+          nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },

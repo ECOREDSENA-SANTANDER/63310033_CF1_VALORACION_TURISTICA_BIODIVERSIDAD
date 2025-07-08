@@ -20,7 +20,7 @@
           .col-3
             img.mt-3(src='@/assets/curso/t4/ico.png', alt='').d-none.d-lg-block
         .row.mt-4
-          p El informe respalda estas afirmaciones con el estudio de Böhning-Gaese, Jetz y Schaefer (2008), el cual analiza cómo el cambio climático ha provocado desplazamientos en los rangos de distribución de aves migratorias, afectando la composición y riqueza de sus comunidades.
+          p El informe respalda estas afirmaciones con el estudio de Böhning - Gaese, Jetz y Schaefer (2008), el cual analiza cómo el cambio climático ha provocado desplazamientos en los rangos de distribución de aves migratorias, afectando la composición y riqueza de sus comunidades.
 
     .subt2.mb-5(data-aos="fade-right")
       .row.align-items-center

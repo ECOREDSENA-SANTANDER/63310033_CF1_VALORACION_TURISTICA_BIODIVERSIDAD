@@ -109,7 +109,7 @@
         .col
           p.mt-2 La diversidad de ecosistemas está directamente relacionada con la influencia de las actividades humanas. Según la historia de ocupación y uso del territorio, se pueden distinguir desde ecosistemas naturales apenas alterados por el ser humano, hasta ecosistemas profundamente transformados por la actividad humana.
 
-      p.mb-4 El Informe nacional sobre el estado de la biodiversidad distingue dos tipos de diversidad ecosistémica:
+      p.mb-4 El informe nacional sobre el estado de la biodiversidad distingue dos tipos de diversidad ecosistémica:
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12.col-md-12.col-sm-12
@@ -193,7 +193,7 @@
             .py-3.py-md-4(titulo="Especies endémicas")
               .row.justify-content-center
                 .col-md-5
-                  p Es aquella cuya distribución está restringida exclusivamente a una región geográfica determinada; es decir, no se encuentra de forma natural en ninguna otra parte del mundo. En Colombia, la diversidad de ecosistemas ha favorecido el desarrollo de un elevado número de especies endémicas, lo que convierte al país en un punto clave para su conservación. La siguiente información ha sido registrada por el Sistema de información sobre biodiversidad de Colombia.       
+                  p Es aquella cuya distribución está restringida exclusivamente a una región geográfica determinada; es decir, no se encuentra de forma natural en ninguna otra parte del mundo. En Colombia, la diversidad de ecosistemas ha favorecido el desarrollo de un elevado número de especies endémicas, lo que convierte al país en un punto clave para su conservación. La siguiente información ha sido registrada por el Sistema de Información sobre Biodiversidad de Colombia.       
                 .col-md-5
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 2. 

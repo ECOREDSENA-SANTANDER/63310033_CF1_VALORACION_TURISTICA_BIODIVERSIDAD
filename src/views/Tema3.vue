@@ -47,7 +47,7 @@
                     span.mb-0 Madagascar
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Maputaland-Pondoland-Albany
+                    span.mb-0 Maputaland - Pondoland - Albany
                   li.mb-0 
                     i.fas.fa-check-circle
                     span.mb-0 Karoo
@@ -63,7 +63,7 @@
                     span.mb-0 Himalayas
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Indochina-Birmania
+                    span.mb-0 Indochina - Birmania
                   li.mb-0 
                     i.fas.fa-check-circle
                     span.mb-0 Montañas del suroeste de China
@@ -80,7 +80,7 @@
                     span.mb-0 Filipinas
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Polinesia-Micronesia
+                    span.mb-0 Polinesia - Micronesia
                   li.mb-0 
                     i.fas.fa-check-circle
                     span.mb-0 Suroeste de Australia
@@ -101,7 +101,7 @@
                   span.mb-0 Cáucaso
                 li.mb-0 
                   i.fas.fa-check-circle
-                  span.mb-0 Irán-Anatolia
+                  span.mb-0 Irán - Anatolia
                 li.mb-0 
                   i.fas.fa-check-circle
                   span.mb-0 Cuenca del Mediterráneo
@@ -160,17 +160,17 @@
           p.mb-0 Colombia alberga dos #[em hotspots] de biodiversidad reconocidos a nivel mundial:
             br
             br
-            | #[b “Tumbes-Chocó-Magdalena” y los “Andes Tropicales”.]
+            | #[b “Tumbes - Chocó - Magdalena” y los “Andes Tropicales”.]
             br
             br
-            | La bio región “Tumbes-Chocó-Magdalena” se caracteriza por una gran diversidad de hábitats, que incluyen manglares, playas, desiertos costeros y algunos de los bosques lluviosos más húmedos y biodiversos del planeta.  
+            | La bioregión “Tumbes - Chocó - Magdalena” se caracteriza por una gran diversidad de hábitats, que incluyen manglares, playas, desiertos costeros y algunos de los bosques lluviosos más húmedos y biodiversos del planeta.  
 
     .row.justify-content-center.align-items-center.fondo3.mb-5(data-aos="fade-right")
     
       .col-lg-6.col-md-12.col-sm-12
         .titulo-sexto.color-acento-contenido
           h5 Figura 8. 
-          |  Región Tumbes-Choco-Magdalena 
+          |  Región Tumbes - Choco - Magdalena 
         figure
           img.mb-2(src='@/assets/curso/t3/fig8.png', alt='El contenido identifica una zona geográfica que se extiende desde el sureste de Panamá, recorre la costa pacífica de Colombia y Ecuador, y llega hasta el noroeste de Perú. Esta región es reconocida como un área de alta biodiversidad terrestre y marina, con ecosistemas estratégicos y especies endémicas. ')
         figcaption #[b Fuente:] Infoecologia (2017)
