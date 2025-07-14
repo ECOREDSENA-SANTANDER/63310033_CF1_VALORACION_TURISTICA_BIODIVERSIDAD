@@ -114,7 +114,6 @@
                     span.mb-0 Provisión de hábitats para especies
           .tarjeta.color-s20.p-4(titulo="Servicios culturales")
             p.mb-4 Son los beneficios intangibles que las personas obtienen de los ecosistemas a través de experiencias espirituales, estéticas, educativas y recreativas. Estos servicios fortalecen la identidad cultural, el bienestar emocional y el vínculo simbólico con la naturaleza.
-            p.mb-4 Por su parte, los servicios de soporte (también llamados servicios de mantenimiento o de base) son fundamentales para la generación de todos los demás servicios ecosistémicos, aunque no se perciben de forma inmediata. Incluyen procesos ecológicos esenciales que operan a largo plazo y en grandes escalas espaciales.
             .row.justify-content-center
               .col-lg-12
                 p.mb-4 #[b Ejemplos:]
