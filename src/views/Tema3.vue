@@ -27,120 +27,117 @@
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Región floral de Cape Town
+                    span.mb-0 Región floral.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Bosques costeros del este de África
+                    span.mb-0 Bosques costeros del este de África.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Región montañosa del este de África
+                    span.mb-0 Región montañosa del este de África.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Bosques guineanos del oeste de África
+                    span.mb-0 Bosques guineanos del oeste de África.
               .col-lg-6
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Cuerno de África
+                    span.mb-0 Cuerno de África.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Madagascar
+                    span.mb-0 Madagascar.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Maputaland - Pondoland - Albany
-                  li.mb-0 
-                    i.fas.fa-check-circle
-                    span.mb-0 Karoo
+                    span.mb-0 Karoo.
           .row.col-xl-11.m-auto(titulo="Asia y el Pacífico")
             .row.justify-content-center.align-items-center
               .col-lg-6
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Islas de Melanesia del este
+                    span.mb-0 Islas de Melanesia del este.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Himalayas
+                    span.mb-0 Himalayas.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Indochina - Birmania
+                    span.mb-0 Indochina - Birmania.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Montañas del suroeste de China
+                    span.mb-0 Montañas del suroeste de China.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Nueva Caledonia
+                    span.mb-0 Nueva Caledonia.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Nueva Zelanda
+                    span.mb-0 Nueva Zelanda.
               .col-lg-6
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Filipinas
+                    span.mb-0 Filipinas.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Polinesia - Micronesia
+                    span.mb-0 Polinesia - Micronesia.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Suroeste de Australia
+                    span.mb-0 Suroeste de Australia.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Sundaland
+                    span.mb-0 Sundaland.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Wallacea
+                    span.mb-0 Wallacea.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Ghat occidentales y Sri Lanka
+                    span.mb-0 Ghat occidentales y Sri Lanka.
           .row.col-xl-11.m-auto(titulo="Europa y Asia Central")
             .row.justify-content-center.align-items-center
               ul.lista-ul--color.fa-al
                 li.mb-0 
                   i.fas.fa-check-circle
-                  span.mb-0 Cáucaso
+                  span.mb-0 Cáucaso.
                 li.mb-0 
                   i.fas.fa-check-circle
-                  span.mb-0 Irán - Anatolia
+                  span.mb-0 Irán - Anatolia.
                 li.mb-0 
                   i.fas.fa-check-circle
-                  span.mb-0 Cuenca del Mediterráneo
+                  span.mb-0 Cuenca del Mediterráneo.
                 li.mb-0 
                   i.fas.fa-check-circle
-                  span.mb-0 Montañas de Asia Central
+                  span.mb-0 Montañas de Asia Central.
           .row.col-xl-11.m-auto(titulo="Norte y Centroamérica")
             .row.justify-content-center.align-items-center
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Provincia forestística californiana
+                    span.mb-0 Provincia forestística californiana.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Islas del Caribe
+                    span.mb-0 Islas del Caribe.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Mesoamérica
+                    span.mb-0 Mesoamérica.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Bosques de pinos y robles madrones
+                    span.mb-0 Bosques de pinos y robles madrones.
           .row.col-xl-11.m-auto(titulo="Sudamérica")
             .row.justify-content-center.align-items-center
                 ul.lista-ul--color.fa-al
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Bosque Atlántico
+                    span.mb-0 Bosque Atlántico.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Cerrado
+                    span.mb-0 Cerrado.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Bosque valdiviano
+                    span.mb-0 Bosque valdiviano.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Andes tropicales
+                    span.mb-0 Andes tropicales.
                   li.mb-0 
                     i.fas.fa-check-circle
-                    span.mb-0 Chocó biogeográfico
+                    span.mb-0 Chocó biogeográfico.
 
     .row.justify-content-center.align-items-center.mb-5.mt-4(data-aos="fade-down")
       .col-lg-8.col-md-12.col-sm-12

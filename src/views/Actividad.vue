@@ -20,7 +20,7 @@ export default {
       tema: 'Turismo y biodiversidad sostenible',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Reconocer conceptos clave sobre biodiversidad, ecosistemas y servicios ecosistémicos en el contexto del turismo sostenible en Colombia.',
+        '<b> Objetivo:</b> reconocer conceptos clave sobre biodiversidad, ecosistemas y servicios ecosistémicos en el contexto del turismo sostenible en Colombia.',
       barajarPreguntas: true,
       titulo_aprobado: '¡EXCELENTE TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -143,7 +143,7 @@ export default {
         {
           id: 6,
           texto:
-            'Los <em>hotspots</em> de biodiversidad son áreas sin afectación por actividades humanas.?',
+            'Los <em>hotspots</em> de biodiversidad son áreas sin afectación por actividades humanas.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
