@@ -10,13 +10,13 @@
       .row.justify-content-center.mb-4
         .col-lg-9.col-md-12.col-sm-12
           .tarjeta--container.borde-recto.row
-            .col-lg-5.tarjeta.bgterciario.px-3.py-2(data-aos="fade-right")
+            .col-lg-5.tarjeta.bgterciario.px-3.py-2(data-aos="fade-right").d-none.d-lg-block
               img(src='@/assets/curso/t1/img1.png', alt='')
             .col-lg-7.tarjeta.bgverde.p-4(data-aos="fade-left")
               .row.bgverdemate.mx-1.mt-4
               p.mb-0.mt-4 La biodiversidad se refiere a la variedad de formas de vida que habitan un área determinada, incluyendo especies animales, vegetales y microorganismos, este concepto abarca también la diversidad de ecosistemas, la riqueza de hábitats y comunidades biológicas, así como la variedad de procesos ecológicos que los sustentan. Además, incluye la variabilidad genética, entendida como el conjunto de la información contenida en los genes de todos los individuos de una especie (Calle, 1994).
           p.mt-2 Según la Política Nacional de Biodiversidad del Ministerio del Medio Ambiente (1996), es importante considerar los siguientes aspectos relacionados con la biodiversidad:
-        .col-lg-3.col-md-6.col-12
+        .col-lg-3.col-md-6.col-8
           img.mt-0(src='@/assets/curso/t1/img2.png', alt='')
         
       .row.align-items-center.justify-content-center.fondo1.mb-4
@@ -88,7 +88,7 @@
       p.mb-4 El hábitat es el entorno específico donde una especie vive y se desarrolla; la interacción entre especies y su entorno constituye un ecosistema, definido por la #[b Ley 165 de 1994] como:
 
       .row.justify-content-center.align-items-center.mb-4
-        .col-lg-4.col-md-6.col-12
+        .col-lg-4.col-md-6.col-8
           img(src='@/assets/curso/t1/img3.png', alt='')
         .col-lg-8.col-md-12.col-sm-12(data-aos="fade-down")
           .row.bgverdeclaro
@@ -156,7 +156,7 @@
           TabsC.color-primario
             .py-3.py-md-4(titulo="Especies migratorias")
               .row.justify-content-center
-                .col-md-5
+                .col-md-5.mb-3
                   p En el territorio colombiano se han identificado 549 especies consideradas migratorias, ya sea por su presencia cíclica, ocasional o permanente en el país. Estas especies pertenecen a diversos grupos taxonómicos, entre los que se encuentran:        
                   .titulo-sexto.color-acento-contenido
                     h5 Figura 1. 
@@ -220,7 +220,7 @@
                     |  Estadística de especies
                   figure
                     img(src='@/assets/curso/t1/fig3.png', alt='Presenta la distribución de especies amenazadas en Colombia, agrupadas en tres categorías de riesgo: En Peligro Crítico (CR), En Peligro (EN) y Vulnerables (VU). En total, se registran 798 especies amenazadas, de las cuales 313 corresponden a vertebrados, 74 a invertebrados y 411 a plantas. Cada grupo se desglosa según el nivel de amenaza, reflejando la urgencia de acciones de conservación diferenciadas.')
-                  figcaption #[b Fuente:] Sibcolombia.net (2017)
+                  figcaption.mb-3 #[b Fuente:] Sibcolombia.net (2017)
                 .col-md-5
                   p  Según el Ministerio de Medio Ambiente y Desarrollo Sostenible (2010), en Colombia existen 377 especies de fauna clasificadas como amenazadas. La distribución por grupos es la siguiente:          
                   ul.lista-ul--color.fa-al
@@ -268,7 +268,7 @@
                       span.mb-0 6 arañas.
                     li.mb-0
                       i.fas.fa-check-circle
-                      span.mb-0 5 alacranes
+                      span.mb-0 5 alacranes.
                   p Esta situación evidencia la urgencia de implementar medidas efectivas de conservación y protección de la fauna colombiana.
 
   </template>

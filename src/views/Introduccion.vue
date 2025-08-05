@@ -9,7 +9,7 @@
       h1 Introducción
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-5.col-md-8.col-12
+      .col-lg-5.col-md-8.col-12.d-none.d-lg-block
         img(src='@/assets/curso/portada/img-intro.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
         .row.justify-content-center.bgverde.borde-redondo.mb-3.mt-2

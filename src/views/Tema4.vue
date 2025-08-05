@@ -13,7 +13,7 @@
       .col-sm-12.col-md-12.col-lg-5(data-aos="fade-left")
         .row.bgverde.borde-redondo
           p.px-4.py-2.mt-2 Según el informe #[b “El cambio climático y sus efectos en la biodiversidad en América Latina” (CEPAL, 2015)], las variaciones en la precipitación y el aumento de la temperatura están modificando la distribución, tamaño, estructura y abundancia de diversas especies. Estos cambios, junto con las alteraciones del ciclo hidrológico, afectan las interacciones entre especies, los ciclos de nutrientes y el funcionamiento de los ecosistemas, comprometiendo así la calidad y el flujo de los servicios ambientales que estos ofrecen.
-      .col-6.col-md-6.col-lg-3(data-aos="fade-left")
+      .col-6.col-md-6.col-lg-3(data-aos="fade-left").d-none.d-lg-block
         img(src='@/assets/curso/t4/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-4(data-aos="fade-down")
         .row.align-items-center
@@ -80,7 +80,7 @@
                     span.mb-0 Fauna ornamental y pieles.
           .tarjeta.color-s20.p-4(titulo="Servicios de regulación y soporte")
             p.mb-4 Los servicios de regulación son aquellos que resultan de los procesos naturales que contribuyen al equilibrio ambiental, como la regulación del clima, la calidad del aire y del agua, el control de enfermedades y plagas, entre otros.
-           
+            p Por su parte, los servicios de soporte (también llamados servicios de mantenimiento o de base) son fundamentales para la generación de todos los demás servicios ecosistémicos, aunque no se perciben de forma inmediata. Incluyen procesos ecológicos esenciales que operan a largo plazo y en grandes escalas espaciales.
             .row.justify-content-center
               .col-lg-6
                 p.mb-4 #[b Ejemplos de servicios de regulación:]

@@ -11,7 +11,7 @@
       .col-sm-12.col-md-12.col-lg-5(data-aos="fade-left")
         .row.bgverde.borde-redondo
           p.p-5.mt-2.mb-3 La siguiente figura presenta los países denominados megadiversos, los cuales concentran, en conjunto, aproximadamente el 70 % de la biodiversidad global; estos territorios se caracterizan por albergar una gran variedad de especies y ecosistemas.
-      .col-6.col-md-6.col-lg-3(data-aos="fade-left")
+      .col-6.col-md-6.col-lg-3(data-aos="fade-left").d-none.d-lg-block
         img(src='@/assets/curso/t2/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-4(data-aos="fade-down")
         .row.align-items-center
@@ -63,7 +63,7 @@
     p.mb-4 Aunque no se cuenta con un dato exacto sobre el número total de especies presentes en Colombia, existen estimaciones por grupo biológico que permiten dimensionar la magnitud de su biodiversidad. Las cifras disponibles corresponden al año 2016 y, según expertos, continúan en aumento debido a los descubrimientos realizados en expediciones científicas, especialmente en zonas que han sido accesibles tras los procesos de posconflicto.
 
     .row.justify-content-center.align-items-center.fondo2(data-aos="fade-down")
-      .col-lg-8.col-md-12.col-sm-12
+      .col-lg-8.col-md-12.col-11
         .titulo-sexto.color-acento-contenido
           h5 Figura 6. 
           |  Clasificación de la biodiversidad

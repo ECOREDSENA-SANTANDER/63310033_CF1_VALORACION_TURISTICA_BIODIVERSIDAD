@@ -8,7 +8,7 @@
       h1 ¿Qué son los “#[em hotspots]” de biodiversidad?
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-down")
-      .col-lg-5.col-md-10.col-12
+      .col-lg-5.col-md-10.col-12.mb-3
         img(src='@/assets/curso/t3/img1.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
         p Los #[em hotspots] de biodiversidad son regiones geográficas que albergan una extraordinaria riqueza de especies, especialmente de plantas vasculares (con más de 1.500 especies endémicas), y una elevada concentración de especies de vertebrados que no se encuentran en ninguna otra parte del planeta. Para ser considerado un #[em hotspot], además de esta alta biodiversidad, el área debe haber sufrido una significativa pérdida de su hábitat natural debido a actividades humanas, como la deforestación, la expansión urbana o la agricultura intensiva.
@@ -17,7 +17,7 @@
     p.mb-4 Se han identificado 35 #[em hotspots] de biodiversidad en el mundo, distribuidos de la siguiente manera:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-3.col-md-6.col-12
+      .col-lg-3.col-md-6.col-8.mb-3
         img(src='@/assets/curso/t3/img2.png', alt='')
       .col-lg-9.col-md-12.col-sm-12      
         AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
@@ -162,16 +162,16 @@
             br
             | La bioregión “Tumbes - Chocó - Magdalena” se caracteriza por una gran diversidad de hábitats, que incluyen manglares, playas, desiertos costeros y algunos de los bosques lluviosos más húmedos y biodiversos del planeta.  
 
-    .row.justify-content-center.align-items-center.fondo3.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.fondo3.mb-4(data-aos="fade-right")
     
-      .col-lg-6.col-md-12.col-sm-12
+      .col-lg-6.col-md-12.col-11
         .titulo-sexto.color-acento-contenido
           h5 Figura 8. 
           |  Región Tumbes - Choco - Magdalena 
         figure
           img.mb-2(src='@/assets/curso/t3/fig8.png', alt='El contenido identifica una zona geográfica que se extiende desde el sureste de Panamá, recorre la costa pacífica de Colombia y Ecuador, y llega hasta el noroeste de Perú. Esta región es reconocida como un área de alta biodiversidad terrestre y marina, con ecosistemas estratégicos y especies endémicas. ')
-        figcaption #[b Fuente:] Infoecologia (2017)
-      .col-lg-5.col-md-12.col-sm-12
+        figcaption.mb-3  #[b Fuente:] Infoecologia (2017)
+      .col-lg-5.col-md-12.col-112
         p.mb-3 Por su parte, los “Andes Tropicales” conforman una región de gran complejidad geográfica, con múltiples microclimas originados por su relieve montañoso. Este territorio abarca imponentes nevados, profundos cañones y amplios valles interandinos, lo que favorece la existencia de una extraordinaria variedad de ecosistemas y especies.
         .row.justify-content-center.align-items-center
           .col-10
@@ -192,7 +192,7 @@
         figure
           img.mb-2(src='@/assets/curso/t3/fig10.png', alt='Clasifica los ecosistemas colombianos en dos grandes grupos: terrestres y marino costeros. Dentro de los ecosistemas terrestres se incluyen el Chocó biogeográfico, las Llanuras del Caribe, la Amazonía, la Orinoquía y la región Andina. En cuanto a los marino-costeros, se identifican las zonas del Pacífico y del Caribe.')
         figcaption #[b Fuente:] Ministerio de Ambiente y Desarrollo Sostenible (2015)
-      .col-lg-8.col-md-12.col-sm-12
+      .col-lg-8.col-md-12.col-sm-12.d-none.d-lg-block
           img(src='@/assets/curso/t3/img4.png', alt='')
 
 
